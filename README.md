@@ -4,7 +4,6 @@
 This repository contains a script to automate system backups with the awesome borg-backup.  
 
 ### 💻 Created by choice
-
 I created this script with the intention of using it personally on a daily basis.
 
 ### Convenience
@@ -12,7 +11,6 @@ I created this script with the intention of using it personally on a daily basis
 
 
 #### Credits
-
 - **Software(BorgBackup):** [👆](https://www.borgbackup.org/)
 
 
