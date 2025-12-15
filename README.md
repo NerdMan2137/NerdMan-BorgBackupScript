@@ -8,7 +8,6 @@ This repository contains a script to automate system backups with the awesome bo
 I created this script with the intention of using it personally on a daily basis.
 
 ### Convenience
-
 ##### All you have to do is simply insert a USB stick, execute a one-line script, wait, and disconnect. It's really that simple!
 
 
