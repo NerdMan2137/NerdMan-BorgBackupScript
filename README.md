@@ -13,7 +13,7 @@ I created this script with the intention of using it personally on a daily basis
 
 #### Credits
 
-- **Software(BorgBackup):** [👆](https://www.youtube.com/watch?v=ju8tpBkg3ZY](https://www.borgbackup.org/)  
+- **Software(BorgBackup):** https://www.youtube.com/watch?v=ju8tpBkg3ZY](https://www.borgbackup.org/
 
 
 Thank you for checking out my work!  
