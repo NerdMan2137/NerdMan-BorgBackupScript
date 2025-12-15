@@ -1,0 +1,8 @@
+How to use it?
+
+Simply:
+  - open .sh with a text editor
+  - change settings to desired in the user area
+  - write it down
+  - in the terminal, type: „sudo chmod+x script.sh”(to grant execution rights, remember the correct file path!)
+  - in the terminal, type: „./script.sh” (full path, this is just an example!)
